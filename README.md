@@ -30,7 +30,7 @@
 
 **[Hello rails back end]** is a backend rails api that provides service to the front-end react app to generate random greetings.
 
-## [Link to the front-end repo](https://github.com/gracehtet/hello-react-frontend/tree/react-app)
+## [Link to the front-end repo](https://github.com/naji-97/hello-react-front-end.git)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -71,7 +71,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd hello-rails-backend
-  git clone https://github.com/naji-97/hello-rails-react.git
+  git clone https://github.com/naji-97/hello-rails-back-end.git
 ```
 
 ### Install
@@ -112,7 +112,7 @@ To run tests, run the following command:
 👤 **Naji Ali**
 
 - GitHub: [Naji Ali](https://github.com/naji-97)
-- LinkedIn: [marwan-abdelsattar](https://linkedin.com/in/abdennaji)
+- LinkedIn: [Naji Ali](https://linkedin.com/in/abdennaji)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,7 +130,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/gracehtet/hello-rails-backend/issues).
+Feel free to check the [issues page](https://github.com/Naji-97/hello-rails-back-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
